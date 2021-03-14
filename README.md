@@ -23,19 +23,19 @@
 
 
 ## 🎯 Goals:
-- Participate on **‘National Cyber Drill’** with your best effort
-- Gather skills on specific cybersec topics over time
-- Learn proper use of *Team Management platforms* during preparation period to manage resources and guidelines
+- Gather & Showcase your skills
+- Teamwork on project initiatives
+- Mentorship Engagements
+- Technical Profile Builup
+- Program Opportunities
 - Adopt **Learn-and-teach** method 
-- Eventually find out your own comfort domain path in cyber security 
-- Get started with CTFs (for newcomers)
 
 
 ## 🎯 Requirements
 :small_blue_diamond: Sharing mentality: You need to share your findings and afterwords maybe discuss or teach how those things work
 :small_blue_diamond: Maintain progress: Commit at least 8-10 hours every week to learn and implement a new topic/tool/strategy
 :small_blue_diamond: Configuration: Configure your environment/machine according to the requirements needed (i.e. VM installation, Network tweaking)
-:small_blue_diamond: Documentation: Write down everything you do in a simple but organized way
+:small_blue_diamond: Documentation: Write down everything you do in a simple but organized way (bonus for using markdown)
 
 
 ## 🎯 Platforms
@@ -52,12 +52,12 @@
 
 ## 🎯 Aftermath
 ### After program completion, based on your activities and contribution, you would be able to-
-- Get evaluation on your *6 months progress log*, both individually
+- Get evaluation on your *6 months progress log* 
 - Track down your obtained skills and achievements
 - Prepare a simple *individual report* on your skill growth based on your learning curve
 - Update your Resume / LinkedIn / CV based on the skills and experiences learned with teamwork and mentorship.
 - Get rewarded with verifiable Digital Badge based on your program contribution
-- If interest persists, you can keep your engagements with JU Computer Club carried on
+- If interest persists, you can keep your engagements with JU Computer Club even after that
 
 ## 🎯 About Technical Associates Program
 Program Details
