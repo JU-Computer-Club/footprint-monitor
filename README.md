@@ -32,9 +32,9 @@
 
 
 ## 🎯 Requirements
-:small_blue_diamond: Sharing mentality: You need to share your findings and afterwords maybe discuss or teach how those things work
-:small_blue_diamond: Maintain progress: Commit at least 8-10 hours every week to learn and implement a new topic/tool/strategy
-:small_blue_diamond: Configuration: Configure your environment/machine according to the requirements needed (i.e. VM installation, Network tweaking)
+:small_blue_diamond: Sharing mentality: You need to share your findings and afterwords maybe discuss or teach how those things work <br>
+:small_blue_diamond: Maintain progress: Commit at least 8-10 hours every week to learn and implement a new topic/tool/strategy <br>
+:small_blue_diamond: Configuration: Configure your environment/machine according to the requirements needed (i.e. VM installation, Network tweaking) <br>
 :small_blue_diamond: Documentation: Write down everything you do in a simple but organized way (bonus for using markdown)
 
 
