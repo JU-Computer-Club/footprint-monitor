@@ -1,0 +1,8 @@
+## Activities 
+1. Dig tool cheat sheet
+2. solved around 5-6 PicoCTF problems
+3. Made a report on Javascript build toolchain
+
+## References
+- Dig cheatsheet - https://neverendingsecurity.wordpress.com/2015/04/13/dig-commands-cheatsheet/
+- Modern frontend tool and build process - https://medium.com/@trevorpoppen/modern-front-end-the-tools-and-build-process-explained-36641b5c1a53
