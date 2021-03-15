@@ -1,14 +1,6 @@
 # Footprint Monitor
-<<<<<<< HEAD
-<img src="assets/cover.png">
-
-=======
->>>>>>> 7e969b6b09b580757a76fcaaae9a3c3f28f136f8
-## Progress Tracker platform for **JUCOM Technical Associates Program** for **January Cohort**
 
 <img src="assets/cover.png">
-
-
 
 ## 🎯 Team Members 
 
