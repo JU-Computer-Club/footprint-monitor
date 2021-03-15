@@ -59,7 +59,7 @@
 - If interest persists, you can keep your engagements with JU Computer Club even after that
 
 ## 🎯 About Technical Associates Program
-###Program Details
+### Program Details
 JU Computer Club Technical Associates Program is a program that helps students to kickstart to engage in open source developments.
 It is a 6 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects.
 Here, all the participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
