@@ -4,8 +4,8 @@
 
 ## 🎯 Team Members 
 
-- Anjum Rashid - [@bijoy26](https://www.github.com/bijoy26) 
-- Meraj Al Maksud - [@merajmasuk](https://www.github.com/merajmasuk) 
+- Anjum Rashid - [@bijoy26](https://www.github.com/bijoy26)
+- Meraj Al Maksud - [@merajmasuk](https://www.github.com/merajmasuk)
 
 ## 🎯 Quick Links
 - ### 📻 Group Discussion Records - [Google Drive]()
@@ -60,4 +60,6 @@
 
 ## 🎯 About Technical Associates Program
 Program Details
-
+JU Computer Club Technical Associates Program is a program that helps students to kickstart to engage in open source developments.
+It is a 6 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects.
+Here, all the participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
