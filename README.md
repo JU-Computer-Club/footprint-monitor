@@ -1,7 +1,9 @@
 # Footprint Monitor
+## Progress Tracker platform for **JUCOM Technical Associates Program** for **January Cohort**
+
 <img src="assets/cover.png">
 
-## Progress Tracker platform for **JUCOM Technical Associates Program** for **January Cohort**
+
 
 ## 🎯 Team Members 
 
