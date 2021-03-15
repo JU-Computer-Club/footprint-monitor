@@ -1,5 +1,5 @@
 # Footprint Monitor
-<img src="#">
+<img src="assets/cover.png">
 
 ## Progress Tracker platform for **JUCOM Technical Associates Program** for **January Cohort**
 
@@ -16,8 +16,8 @@
     - [Upcoming](#)
 
 - ### Individual Progress Logs 
-    - [bijoy26](#)
-    - [merajmasuk](#)
+    - [bijoy26](progress-logs\bijoy26)
+    - [merajmasuk](progress-logs\merajmasuk)
     
 - ### Associate Profile Template - [To Be Added](#)
 
@@ -28,14 +28,14 @@
 - Mentorship Engagements
 - Technical Profile Builup
 - Program Opportunities
-- Adopt **Learn-and-teach** method 
+- Adopt **Learn-and-teach** method
 
 
 ## 🎯 Requirements
 :small_blue_diamond: Sharing mentality: You need to share your findings and afterwords maybe discuss or teach how those things work <br>
 :small_blue_diamond: Maintain progress: Commit at least 8-10 hours every week to learn and implement a new topic/tool/strategy <br>
 :small_blue_diamond: Configuration: Configure your environment/machine according to the requirements needed (i.e. VM installation, Network tweaking) <br>
-:small_blue_diamond: Documentation: Write down everything you do in a simple but organized way (bonus for using markdown)
+:small_blue_diamond: Documentation: Write down everything you do in a simple but organized way (bonus for using markdown) <br>
 
 
 ## 🎯 Platforms
@@ -45,10 +45,10 @@
 
 
 ## 🎯 Expectations
-:small_orange_diamond: Showcase your technical expertise through speaking on webinars and technical workshops arranged by JU Computer Club
-:small_orange_diamond: Learn Open Source contribution by taking part in tech projects undertaken by JU Computer Club
-:small_orange_diamond: Use your mentorship opportunity to closely work with upcoming pilot programs undertaken by the club
-:small_orange_diamond: Make proper use of the exclusive benefits that we offer and try you best to achieve the Best Performing Associate recognition
+:small_orange_diamond: Showcase your technical expertise through speaking on webinars and technical workshops arranged by JU Computer Club <br>
+:small_orange_diamond: Learn Open Source contribution by taking part in tech projects undertaken by JU Computer Club <br>
+:small_orange_diamond: Use your mentorship opportunity to closely work with upcoming pilot programs undertaken by the club <br>
+:small_orange_diamond: Make proper use of the exclusive benefits that we offer and try you best to achieve the Best Performing Associate recognition <br>
 
 ## 🎯 Aftermath
 ### After program completion, based on your activities and contribution, you would be able to-
