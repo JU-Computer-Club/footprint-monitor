@@ -18,7 +18,14 @@
 - ### Individual Progress Logs 
     - [bijoy26](progress-logs\bijoy26)
     - [merajmasuk](progress-logs\merajmasuk)
-    
+    - [add your profile](#)
+    - [add your profile](#)
+    - [add your profile](#)
+    - [add your profile](#)
+
+- ### Dev Pack Insiders 
+    - [Termius](dev-pack-insiders/termius.md)
+
 - ### Associate Profile Template - [To Be Added](#)
 
 

@@ -1,7 +1,7 @@
 # GitHub Student Dev Pack - Termius
 ## A secure SSH client that works on both desktop and mobile with multi-device sync.
 
-<img src="../assets/termius.jpeg">
+<img src="../assets/termius.jpg">
 
 ## 🎯 About Student Subscription:
 
