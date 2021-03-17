@@ -10,8 +10,8 @@
 
 ## 🎯 Quick Links
 - ### 📻 Group Discussion Records - [Google Drive]()
-    - [Meeting-1 : Introduction (DATE)](https://drive.google.com/file/d/19WsHy81XhaqlGanaXUhymXkBuuHWGiae/view?usp=sharing)
-    - [Meeting-2 : Quick Status Check (DATE)](#)
+    - [Meeting-1 : Introduction (25th Feb)](https://drive.google.com/file/d/19WsHy81XhaqlGanaXUhymXkBuuHWGiae/view?usp=sharing)
+    - [Meeting-2 : Quick Status Check (08th Mar)](#)
     - [Upcoming](#)
     - [Upcoming](#)
 
