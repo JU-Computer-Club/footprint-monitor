@@ -9,7 +9,7 @@
 - Meraj Al Maksud - [@merajmasuk](https://www.github.com/merajmasuk)
 
 ## 🎯 Quick Links
-- ### 📻 Group Discussion Records - [Google Drive]()
+- ### 📻 Group Discussion Records
     - [Meeting-1 : Introduction (25th Feb)](https://drive.google.com/file/d/19WsHy81XhaqlGanaXUhymXkBuuHWGiae/view?usp=sharing)
     - [Meeting-2 : Quick Status Check (08th Mar)](#)
     - [Upcoming](#)
