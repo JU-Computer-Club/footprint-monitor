@@ -30,11 +30,11 @@
 
 
 ## 🎯 Goals:
-:small_blue_diamond: Gather & Showcase your skills
-:small_blue_diamond: Teamwork on project initiatives
-:small_blue_diamond: Mentorship Engagements
-:small_blue_diamond: Technical Profile Builup
-:small_blue_diamond: Program Opportunities
+:small_blue_diamond: Gather & Showcase your skills <br>
+:small_blue_diamond: Teamwork on project initiatives <br>
+:small_blue_diamond: Mentorship Engagements <br>
+:small_blue_diamond: Technical Profile Builup <br>
+:small_blue_diamond: Program Opportunities <br>
 :small_blue_diamond: Adopt **Learn-and-teach** method
 
 
@@ -46,8 +46,8 @@
 
 
 ## 🎯 Platforms
-:small_blue_diamond: **Team Communication:** Discord Server
-:small_blue_diamond: **Team Management:** Github Teams
+:small_blue_diamond: **Team Communication:** Discord Server <br>
+:small_blue_diamond: **Team Management:** Github Teams <br>
 :small_blue_diamond: **Resource Management:** GitHub Repository
 
 
@@ -59,12 +59,12 @@
 
 ## 🎯 Aftermath
 ### After program completion, based on your activities and contribution, you would be able to-
-:small_blue_diamond: Get evaluation on your *6 months progress log* 
-:small_blue_diamond: Track down your obtained skills and achievements
-:small_blue_diamond: Prepare a simple *individual report* on your skill growth based on your learning curve
-:small_blue_diamond: Update your Resume / LinkedIn / CV based on the skills and experiences learned with teamwork and mentorship.
-:small_blue_diamond: Get rewarded with verifiable Digital Badge based on your program contribution
-:small_blue_diamond: If interest persists, you can keep your engagements with JU Computer Club even after that
+:small_blue_diamond: Get evaluation on your *6 months progress log* <br> 
+:small_blue_diamond: Track down your obtained skills and achievements <br>
+:small_blue_diamond: Prepare a simple *individual report* on your skill growth based on your learning curve <br>
+:small_blue_diamond: Update your Resume / LinkedIn / CV based on the skills and experiences learned with teamwork and mentorship <br>
+:small_blue_diamond: Get rewarded with verifiable Digital Badge based on your program contribution <br>
+:small_blue_diamond: If interest persists, you can keep your engagements with JU Computer Club even after that <br>
 
 ## 🎯 About JUCOM Technical Associates Program
 ### Program Details
