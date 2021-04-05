@@ -1,0 +1,4 @@
+Tasks Completed:
+
+1. Learned Extended Euclidean Algorithm from [cp-algorithms](http://cp-algorithms.com/)
+
